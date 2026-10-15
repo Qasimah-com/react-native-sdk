@@ -1,0 +1,8 @@
+node_modules/
+lib/
+coverage/
+android/build/
+android/.gradle/
+android/local.properties
+*.tgz
+.DS_Store

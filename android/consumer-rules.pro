@@ -1,0 +1,3 @@
+-keep class com.qasimha.checkout.QasimhaCheckoutModule { *; }
+-keep class com.qasimha.checkout.QasimhaCheckoutPackage { *; }
+-keep class com.qasimha.checkout.QasimhaReturnActivity { *; }
